@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/cqa6auP0PF.gif" width=250><br>
 
 ### Notes
-Was unable to figure out how to present a trailer when someone taps the poster in detail view.
+Could not present a trailer when someone taps the poster in detail view.
 
 
 
